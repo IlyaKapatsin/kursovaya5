@@ -1,6 +1,6 @@
 from src.config import config
 from src.api import HeadHunterAPI
-from src.DBManager import DBManager
+from src.db_manager import DBManager
 
 
 def new_work():
